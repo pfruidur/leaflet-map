@@ -1,0 +1,18 @@
+html,body,#map {
+  height: 100%;
+  margin:0px;
+}
+.viewport {
+  height: 100%;
+}
+.contenido {
+  height: 95%;
+  color: white;
+  background-color: #800;
+}
+.encabezado {
+  height: 5%;
+  color: white;
+  background-color: #080;
+  display: flex;
+}  

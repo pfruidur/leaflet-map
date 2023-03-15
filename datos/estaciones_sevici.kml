@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="estaciones_sevici" id="estaciones_sevici">
+	<SimpleField name="id_estacio" type="float"></SimpleField>
+	<SimpleField name="Direccion" type="string"></SimpleField>
+</Schema>
+<Folder><name>estaciones_sevici</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">1</SimpleData>
+		<SimpleData name="Direccion">Glorieta Olimpica</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98893325199998,37.4129830420001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">2</SimpleData>
+		<SimpleData name="Direccion">Gran Plaza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96518269399996,37.381664061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">3</SimpleData>
+		<SimpleData name="Direccion">Puerta de la Barqueta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99851378399995,37.405639939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">4</SimpleData>
+		<SimpleData name="Direccion">Calle Leonardo Da Vinci</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00565898399998,37.4101260890001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">131</SimpleData>
+		<SimpleData name="Direccion">Calle Tabladilla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98139638699996,37.364746299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">132</SimpleData>
+		<SimpleData name="Direccion">Calle Paez de Ribera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98477674699996,37.3636703380001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">5</SimpleData>
+		<SimpleData name="Direccion">Camino de los Descubrimientos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00193636599994,37.411022288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">133</SimpleData>
+		<SimpleData name="Direccion">Avenida Santa Fe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00425940899993,37.3740009260001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">6</SimpleData>
+		<SimpleData name="Direccion">Camino de los Descubrimientos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00284815599997,37.406676765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">134</SimpleData>
+		<SimpleData name="Direccion">Calle Virgen de Luján</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99851917399997,37.3747833370001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">7</SimpleData>
+		<SimpleData name="Direccion">Calle Américo Vespucio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00741339399997,37.40751592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">135</SimpleData>
+		<SimpleData name="Direccion">Calle Virgen de Luján</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99491603199994,37.374656981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">136</SimpleData>
+		<SimpleData name="Direccion">Calle Asunción</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99762984199998,37.373225646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">8</SimpleData>
+		<SimpleData name="Direccion">Calle Leonardo Da Vinci</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00940316199996,37.401035059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">137</SimpleData>
+		<SimpleData name="Direccion">Avenida de la Borbolla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98547833099997,37.373745356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">138</SimpleData>
+		<SimpleData name="Direccion">Calle Ramón Carande</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97897812199994,37.3758527140001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">9</SimpleData>
+		<SimpleData name="Direccion">Camino de los Descubrimientos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00406627099994,37.402926854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">139</SimpleData>
+		<SimpleData name="Direccion">Avenida Diego Martinez Barrio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97582503499996,37.3751602620001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">10</SimpleData>
+		<SimpleData name="Direccion">Calle José Diaz</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9909607499999,37.409095732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">140</SimpleData>
+		<SimpleData name="Direccion">Calle Felipe II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97735127299995,37.3723746850001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">11</SimpleData>
+		<SimpleData name="Direccion">Calle Avicena</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99321372399993,37.405846163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">141</SimpleData>
+		<SimpleData name="Direccion">Calle Felipe II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98190034199996,37.371715754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">12</SimpleData>
+		<SimpleData name="Direccion">Plaza Duquesa de Alba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99493040499993,37.4038538240001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">142</SimpleData>
+		<SimpleData name="Direccion">Calle Ramon de Carranza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99719685399998,37.3716386520001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">13</SimpleData>
+		<SimpleData name="Direccion">Calle Feria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9918563699999,37.4031559220001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">143</SimpleData>
+		<SimpleData name="Direccion">Calle Ramon de Carranza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00331797499996,37.3716279440001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">144</SimpleData>
+		<SimpleData name="Direccion">Avenida de la Palmera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98800169899994,37.3691056750001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">14</SimpleData>
+		<SimpleData name="Direccion">Avenida Sánchez Pizjuan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98907877899995,37.4069179520001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">145</SimpleData>
+		<SimpleData name="Direccion">Avenida Reina Mercedes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98635778199997,37.3602260160001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">15</SimpleData>
+		<SimpleData name="Direccion">Calle Dr Marañon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98534088899993,37.4072269260001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">146</SimpleData>
+		<SimpleData name="Direccion">Avenida Reina Mercedes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98635778199997,37.3601189140001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">16</SimpleData>
+		<SimpleData name="Direccion">Calle Manuel Villalobos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98279506399996,37.4070278410001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">147</SimpleData>
+		<SimpleData name="Direccion">Carretera de Carmona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97523304599997,37.4008288210001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">17</SimpleData>
+		<SimpleData name="Direccion">Calle de Madreselva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97890715499994,37.407172695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">18</SimpleData>
+		<SimpleData name="Direccion">Avenida Eduardo Dato</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96813994799993,37.382000265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">148</SimpleData>
+		<SimpleData name="Direccion">Calle Tharsis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97321004,37.3987578470001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">19</SimpleData>
+		<SimpleData name="Direccion">Parlamento</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98896199799998,37.4032401270001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">149</SimpleData>
+		<SimpleData name="Direccion">Calle Arroyo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97571094899996,37.397853651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">150</SimpleData>
+		<SimpleData name="Direccion">Calle San Juan Bosco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97862059199997,37.3967817330001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">20</SimpleData>
+		<SimpleData name="Direccion">Calle San Juan de Ribera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98669914199996,37.404735826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">151</SimpleData>
+		<SimpleData name="Direccion">Calle Urquiza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97992674299996,37.394619296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">152</SimpleData>
+		<SimpleData name="Direccion">Calle Samaniego</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97448115599997,37.395821133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">21</SimpleData>
+		<SimpleData name="Direccion">Calle Manuel Villalobos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98149789599995,37.4055057850001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">22</SimpleData>
+		<SimpleData name="Direccion">Avenida de Llanes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97486743099995,37.405143998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">153</SimpleData>
+		<SimpleData name="Direccion">Avenida Reina Mercedes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98625896699997,37.362987769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">23</SimpleData>
+		<SimpleData name="Direccion">Parlamento</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98792803699996,37.4033578720001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">154</SimpleData>
+		<SimpleData name="Direccion">Avenida Kansas City</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96839417099994,37.3948747950001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">24</SimpleData>
+		<SimpleData name="Direccion">Calle León XIII</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98466805099997,37.4040336510001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">155</SimpleData>
+		<SimpleData name="Direccion">Avenida Kansas City</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97076572399993,37.392905716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">25</SimpleData>
+		<SimpleData name="Direccion">Avenida de la Cruz Roja</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98108467099996,37.4031452180001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">156</SimpleData>
+		<SimpleData name="Direccion">Avenida Kansas City</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97264859199993,37.3914832940001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">26</SimpleData>
+		<SimpleData name="Direccion">Avenida de Miraflores</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97763514099995,37.4025422190001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">157</SimpleData>
+		<SimpleData name="Direccion">Avenida Cardenal Bueno Monreal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97816514699997,37.3697781930001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">27</SimpleData>
+		<SimpleData name="Direccion">Avenida de Llanes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97209882399994,37.4038809410001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">28</SimpleData>
+		<SimpleData name="Direccion">Calle Rafael Salgado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97672335099998,37.3603316900001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">158</SimpleData>
+		<SimpleData name="Direccion">Avenida Cardenal Bueno Monreal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98157335499997,37.368865795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">29</SimpleData>
+		<SimpleData name="Direccion">Carretera de Carmona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97008210599995,37.4025336560001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">159</SimpleData>
+		<SimpleData name="Direccion">Avenida Cardenal Bueno Monreal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98485939199998,37.3680461980001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">30</SimpleData>
+		<SimpleData name="Direccion">Avenida Eduardo Dato</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97081243599996,37.3825192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">160</SimpleData>
+		<SimpleData name="Direccion">Calle Arjona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00192738299995,37.387516356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">31</SimpleData>
+		<SimpleData name="Direccion">Avenida de Miraflores</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97983062299994,37.400414202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">161</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Manuel del Valle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96914516299995,37.3999860230001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">32</SimpleData>
+		<SimpleData name="Direccion">Calle Muñoz León</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98630388299995,37.402061244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">162</SimpleData>
+		<SimpleData name="Direccion">Avenida Solea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96848220599998,37.3915246890001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">33</SimpleData>
+		<SimpleData name="Direccion">Calle León XIII</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98370775199993,37.401531026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">34</SimpleData>
+		<SimpleData name="Direccion">Plaza Pumarejo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98855685799998,37.4009322970001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">163</SimpleData>
+		<SimpleData name="Direccion">Calle Sinaí</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97079267299995,37.389926663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">35</SimpleData>
+		<SimpleData name="Direccion">Alameda de Hercules</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99377427299993,37.400818116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">36</SimpleData>
+		<SimpleData name="Direccion">Calle San Vicente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99831795199998,37.400542656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">164</SimpleData>
+		<SimpleData name="Direccion">Calle Luis Montoto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96565700499997,37.387637694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">165</SimpleData>
+		<SimpleData name="Direccion">Avenida de Andalucia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96101091799994,37.387637694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">37</SimpleData>
+		<SimpleData name="Direccion">Alameda de Hércules</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99357035499997,37.3986086940001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">166</SimpleData>
+		<SimpleData name="Direccion">Ronda del Tamarguillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95922237199994,37.3885377300001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">38</SimpleData>
+		<SimpleData name="Direccion">Calle del Inca Garcilaso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01106594399994,37.392025002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">167</SimpleData>
+		<SimpleData name="Direccion">Glorieta Bizco Amate</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96493206399998,37.373352004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">168</SimpleData>
+		<SimpleData name="Direccion">Avenida Ramón y Cajal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96767372199997,37.3751138600001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">169</SimpleData>
+		<SimpleData name="Direccion">Avenida Ramón y Cajal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97306990199996,37.376697925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">39</SimpleData>
+		<SimpleData name="Direccion">Avenida de Torneo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99851917399997,37.39788077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">170</SimpleData>
+		<SimpleData name="Direccion">Plaza Antonio Aparicio Herrero</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96888465099994,37.3789900840001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">40</SimpleData>
+		<SimpleData name="Direccion">Avenida Reina Mercedes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98655810599996,37.356395951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">171</SimpleData>
+		<SimpleData name="Direccion">Calle Alfonso Lasso de la Vega</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97492222799997,37.3661349590001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">41</SimpleData>
+		<SimpleData name="Direccion">Plaza Calderón de la Barca</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99096613899997,37.399550704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">172</SimpleData>
+		<SimpleData name="Direccion">Ronda Tamarguillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97125171199997,37.367130208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">42</SimpleData>
+		<SimpleData name="Direccion">Plaza Cronista</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98952344499997,37.3988106570001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">173</SimpleData>
+		<SimpleData name="Direccion">Ronda Tamarguillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96810132,37.3700452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">43</SimpleData>
+		<SimpleData name="Direccion">Ronda Capuchinos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98273667299998,37.3991389330001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">44</SimpleData>
+		<SimpleData name="Direccion">Ronda Capuchinos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98177367899996,37.3983232350001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">174</SimpleData>
+		<SimpleData name="Direccion">Ronda Tamarguillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96057343799993,37.3806111850001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">45</SimpleData>
+		<SimpleData name="Direccion">Carretera de Carmona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97779593899998,37.3999096640001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">175</SimpleData>
+		<SimpleData name="Direccion">Ronda Tamarguillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96082496699995,37.3777308680001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">46</SimpleData>
+		<SimpleData name="Direccion">Plaza del Pelicano</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98411558699996,37.3976102940001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">176</SimpleData>
+		<SimpleData name="Direccion">Avenida de la Ciudad Jardín</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9665661,37.3775602590001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">47</SimpleData>
+		<SimpleData name="Direccion">Calle Hiniesta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98746630299996,37.396457728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">48</SimpleData>
+		<SimpleData name="Direccion">Calle Churruca</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99118173499994,37.3972213500001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">177</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Juan Fernández</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96903197499995,37.3731121370001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">178</SimpleData>
+		<SimpleData name="Direccion">Calle Ibiza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97389455599995,37.373210654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">49</SimpleData>
+		<SimpleData name="Direccion">Alameda de Hercules</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99390632499995,37.396938026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">50</SimpleData>
+		<SimpleData name="Direccion">Calle de Hernán Cortés</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99669020399995,37.397571757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">179</SimpleData>
+		<SimpleData name="Direccion">Ronda Urbana Norte</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98513966599995,37.413207798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">51</SimpleData>
+		<SimpleData name="Direccion">Avenida Torneo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00238372699994,37.39559918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">180</SimpleData>
+		<SimpleData name="Direccion">Calle Doctor Jaime Marcos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98435813199995,37.409675845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">52</SimpleData>
+		<SimpleData name="Direccion">Calle del Inca Garcilaso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01047575099994,37.3941418380001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">181</SimpleData>
+		<SimpleData name="Direccion">Ronda Urbana Norte</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98251568799998,37.4134182820001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">53</SimpleData>
+		<SimpleData name="Direccion">Calle Reyes Católicos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99958367799996,37.3893007190001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">182</SimpleData>
+		<SimpleData name="Direccion">Calle Victoria Kent</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97387030099998,37.4146390830001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">54</SimpleData>
+		<SimpleData name="Direccion">Plaza San Juan de la Palma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99092571499995,37.3952216440001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">55</SimpleData>
+		<SimpleData name="Direccion">Calle de Maria Auxiliadora</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98378770199997,37.3934331400001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">56</SimpleData>
+		<SimpleData name="Direccion">Plaza Ponce de Leon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98766662699995,37.39310127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">57</SimpleData>
+		<SimpleData name="Direccion">Plaza Cristo de Burgos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98992139899997,37.3922162760001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">183</SimpleData>
+		<SimpleData name="Direccion">Alcalde Manuel del Valle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97134783199994,37.410766843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">58</SimpleData>
+		<SimpleData name="Direccion">Calle Regina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99168299499996,37.394260311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">59</SimpleData>
+		<SimpleData name="Direccion">Avenida de la Palmera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98916861099997,37.371173899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">184</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Manuel del Valle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97051060199993,37.4085427300001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">60</SimpleData>
+		<SimpleData name="Direccion">Plaza de la Concordia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99683483299998,37.393889905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">61</SimpleData>
+		<SimpleData name="Direccion">Plaza del Museo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99937167599995,37.392837914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">62</SimpleData>
+		<SimpleData name="Direccion">Plaza de Armas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00319400699993,37.39112929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">63</SimpleData>
+		<SimpleData name="Direccion">Calle San Pablo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99818410299997,37.390331347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">185</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Manuel del Valle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96886219399994,37.405136149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">64</SimpleData>
+		<SimpleData name="Direccion">Calle Cuesta del Rosario</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99113412399993,37.389816035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">65</SimpleData>
+		<SimpleData name="Direccion">Calle Alhóndiga</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98812566599997,37.3913541110001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">66</SimpleData>
+		<SimpleData name="Direccion">Calle Arroyo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98184823899993,37.3936686600001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">186</SimpleData>
+		<SimpleData name="Direccion">Calle Orfebre Dominguez Vázquez</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97308966499997,37.4086568990001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">67</SimpleData>
+		<SimpleData name="Direccion">Calle Leonardo Da Vinci</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00730290099995,37.4041521070001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">187</SimpleData>
+		<SimpleData name="Direccion">Calle Doctor Laffon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96400410399997,37.3954507350001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">68</SimpleData>
+		<SimpleData name="Direccion">Calle Juan Antonio Cabestany</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97995099699995,37.390232139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">188</SimpleData>
+		<SimpleData name="Direccion">Avenida Hytasa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96338516499998,37.372593137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">69</SimpleData>
+		<SimpleData name="Direccion">Calle Jose Laguillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97871940699997,37.3921320590001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">70</SimpleData>
+		<SimpleData name="Direccion">Estación Renfe Santa Justa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97621041299993,37.3913148570001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">71</SimpleData>
+		<SimpleData name="Direccion">Avenida Kansas City</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97443803699997,37.389893118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">72</SimpleData>
+		<SimpleData name="Direccion">Calle Amador de los Rios</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98277709699994,37.3907317470001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">189</SimpleData>
+		<SimpleData name="Direccion">Avenida Hytasa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95946581599998,37.3700787540001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">73</SimpleData>
+		<SimpleData name="Direccion">Plaza San Agustin</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98448838799993,37.389529828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">190</SimpleData>
+		<SimpleData name="Direccion">Avenida Hytasa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95727213,37.368773698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">74</SimpleData>
+		<SimpleData name="Direccion">Plaza Pilatos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98695336499998,37.389713257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">191</SimpleData>
+		<SimpleData name="Direccion">Glorieta Carlos Cano</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00891268199996,37.3783797520001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">75</SimpleData>
+		<SimpleData name="Direccion">Plaza San Francisco</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99383895199998,37.388125899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">76</SimpleData>
+		<SimpleData name="Direccion">Plaza Nueva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9956050399999,37.3889117310001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">192</SimpleData>
+		<SimpleData name="Direccion">Avenida de Alvar Nuñez</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01153576299993,37.37833835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">77</SimpleData>
+		<SimpleData name="Direccion">Plaza Chapina</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.0077781099999,37.3895448160001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">193</SimpleData>
+		<SimpleData name="Direccion">Avenida de Coria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01197683599997,37.38113013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">78</SimpleData>
+		<SimpleData name="Direccion">Calle Alfareria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01028710499997,37.388587692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">194</SimpleData>
+		<SimpleData name="Direccion">Calle Parque de Doñana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97325136199993,37.4186331230001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">79</SimpleData>
+		<SimpleData name="Direccion">Plaza de las Mercedarias</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98699019599997,37.388385703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">195</SimpleData>
+		<SimpleData name="Direccion">Calle Corral del Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97164517399995,37.421740879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">196</SimpleData>
+		<SimpleData name="Direccion">Calle Estrella Canopus</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97009378399997,37.424682997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">80</SimpleData>
+		<SimpleData name="Direccion">Calle Luis Montoto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98102628099997,37.3876269880001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">197</SimpleData>
+		<SimpleData name="Direccion">Calle Agricultores</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96640799599993,37.423415989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">81</SimpleData>
+		<SimpleData name="Direccion">Calle Luis Montoto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97100467499996,37.3871573370001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">198</SimpleData>
+		<SimpleData name="Direccion">Calle Mar de Alborán</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96794231899997,37.4204438560001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">82</SimpleData>
+		<SimpleData name="Direccion">Calle Luis Montoto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97481443099997,37.387093099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">199</SimpleData>
+		<SimpleData name="Direccion">Calle Mar de Alborán</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96931135099993,37.417839041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">83</SimpleData>
+		<SimpleData name="Direccion">Avenida La Buhaira</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97803219599996,37.3869967410001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">200</SimpleData>
+		<SimpleData name="Direccion">Calle Camino de Los Toros</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96319292599998,37.418919219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">84</SimpleData>
+		<SimpleData name="Direccion">Calle José María Moreno Galván</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98306276199997,37.3873750320001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">201</SimpleData>
+		<SimpleData name="Direccion">Calle Pino Montano</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96781655499996,37.4157221610001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">85</SimpleData>
+		<SimpleData name="Direccion">Paseo Catalina Ribera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98673237899993,37.3853029730001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">86</SimpleData>
+		<SimpleData name="Direccion">Camino de los Descubrimientos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00627612699998,37.397060062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">87</SimpleData>
+		<SimpleData name="Direccion">Plaza Nueva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99542088499993,37.38892672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">202</SimpleData>
+		<SimpleData name="Direccion">Avenida Mujer Trabajadora</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96674576299995,37.4114910750001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">203</SimpleData>
+		<SimpleData name="Direccion">Calle Tesalónica</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95876513,37.396205803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">204</SimpleData>
+		<SimpleData name="Direccion">Calle Doctor Laffon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96164692499997,37.397658823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">88</SimpleData>
+		<SimpleData name="Direccion">Calle Americo Vespucio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00643243399998,37.409214181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">205</SimpleData>
+		<SimpleData name="Direccion">Avenida Kansas City</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96182119799994,37.400172995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">89</SimpleData>
+		<SimpleData name="Direccion">Calle Adriano</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99776279299994,37.386474982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">206</SimpleData>
+		<SimpleData name="Direccion">Avenida Kansas City</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95820008899994,37.4029882250001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">90</SimpleData>
+		<SimpleData name="Direccion">Calle Roma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99353981299993,37.381210077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">207</SimpleData>
+		<SimpleData name="Direccion">Calle Ifni</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98239082199996,37.3550449570001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">91</SimpleData>
+		<SimpleData name="Direccion">Calle Procurador</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00764336299994,37.3869317890001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">208</SimpleData>
+		<SimpleData name="Direccion">Avenida de Grecia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98419733399993,37.3506512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">92</SimpleData>
+		<SimpleData name="Direccion">Ronda de Triana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01116565699994,37.385529239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">93</SimpleData>
+		<SimpleData name="Direccion">Ronda de Triana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01088897599993,37.3830716800001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">209</SimpleData>
+		<SimpleData name="Direccion">Avenida Alemania</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98261360399994,37.3452837990001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">94</SimpleData>
+		<SimpleData name="Direccion">Plaza del Zurraque</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.0082102,37.3833429220001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">95</SimpleData>
+		<SimpleData name="Direccion">Calle Américo Vespucio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.0063866199999,37.412148229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">96</SimpleData>
+		<SimpleData name="Direccion">Calle Betis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00016129499994,37.3837662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">210</SimpleData>
+		<SimpleData name="Direccion">Paseo de Europa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98002735399996,37.3480446740001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">97</SimpleData>
+		<SimpleData name="Direccion">Paseo de Cristóbal Colón</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99553137799995,37.381561273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">211</SimpleData>
+		<SimpleData name="Direccion">Avenida de Alemania</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97609003799994,37.346103645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">98</SimpleData>
+		<SimpleData name="Direccion">Avenida de Roma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99325055499997,37.381988844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">99</SimpleData>
+		<SimpleData name="Direccion">Calle Américo Vespucio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.01055390399995,37.397376928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">212</SimpleData>
+		<SimpleData name="Direccion">Avenida Reino Unido</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97777078599995,37.351608094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">100</SimpleData>
+		<SimpleData name="Direccion">Paseo Catalina Ribera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98921442499994,37.381561273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">101</SimpleData>
+		<SimpleData name="Direccion">Prado de San Sebastian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98687341499993,37.3812978760001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">213</SimpleData>
+		<SimpleData name="Direccion">Avenida de Andalucia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.94839677499994,37.3871730400001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">102</SimpleData>
+		<SimpleData name="Direccion">Calle Juan de Mata Carriazo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98371583699998,37.3827397640001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">103</SimpleData>
+		<SimpleData name="Direccion">Avenida Eduardo Dato</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98252017899995,37.384308678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">104</SimpleData>
+		<SimpleData name="Direccion">Avenida Eduardo Dato</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97975696099996,37.3841709180001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">214</SimpleData>
+		<SimpleData name="Direccion">Avenida de Andalucia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.94849109799998,37.3871801770001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">105</SimpleData>
+		<SimpleData name="Direccion">Calle Francisco Murillo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98060137799996,37.358912934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">106</SimpleData>
+		<SimpleData name="Direccion">Avenida Eduardo Dato</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97747344399994,37.383742645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">107</SimpleData>
+		<SimpleData name="Direccion">Calle Luis Morales</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97266296599997,37.384253717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">108</SimpleData>
+		<SimpleData name="Direccion">Avenida Eduardo Dato</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97355678899993,37.3828318440001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">215</SimpleData>
+		<SimpleData name="Direccion">Calle Zorzal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95399956699993,37.3866577050001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">109</SimpleData>
+		<SimpleData name="Direccion">Avenida San Francisco Javier</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97458805499997,37.3798980760001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">216</SimpleData>
+		<SimpleData name="Direccion">Calle Antioquia</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95627320299997,37.3999482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">110</SimpleData>
+		<SimpleData name="Direccion">Plaza Maria Mercedes Borbón</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98296933699993,37.3801843200001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">111</SimpleData>
+		<SimpleData name="Direccion">Plaza Farmacéutico Murillo Herrera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00100840599993,37.3812643270001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">112</SimpleData>
+		<SimpleData name="Direccion">Avenida J.Mª Martínez Sánchez Arjona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00435283399997,37.380127214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">217</SimpleData>
+		<SimpleData name="Direccion">Calle de la A.D.A.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96238713699995,37.39390632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">113</SimpleData>
+		<SimpleData name="Direccion">Plaza San Martín de Porres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00921361799993,37.3807832150001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">114</SimpleData>
+		<SimpleData name="Direccion">Glorieta Plus Ultra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97928804099996,37.356326688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">218</SimpleData>
+		<SimpleData name="Direccion">Plaza del Altozano</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00360543499994,37.3851159640001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">115</SimpleData>
+		<SimpleData name="Direccion">Calle López de Gomara</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00716096699995,37.3778572190001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">219</SimpleData>
+		<SimpleData name="Direccion">Calle de la A.D.A.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95905259099993,37.390613983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">116</SimpleData>
+		<SimpleData name="Direccion">Calle Manuel Siurot</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98154730399995,37.3614041290001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">220</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.93581676699995,37.4050833430001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">117</SimpleData>
+		<SimpleData name="Direccion">Avenida J.Mª Martínez Sánchez Arjona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00257686399993,37.377785121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">118</SimpleData>
+		<SimpleData name="Direccion">Plaza de Cuba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99712229399995,37.380145773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">221</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.93053826699997,37.405602119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">119</SimpleData>
+		<SimpleData name="Direccion">Avenida de Chile</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99193362499994,37.3774260550001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">222</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.93451421,37.4041021560001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">120</SimpleData>
+		<SimpleData name="Direccion">Glorieta San Diego</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98994924699997,37.378845175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">223</SimpleData>
+		<SimpleData name="Direccion">Calle Gema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92636110099994,37.4007153540001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">121</SimpleData>
+		<SimpleData name="Direccion">Calle Doctor Pedro de Castro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98185273099995,37.377131949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">224</SimpleData>
+		<SimpleData name="Direccion">Avenida de las Ciencias</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9237703599999,37.397022238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">122</SimpleData>
+		<SimpleData name="Direccion">Calle Enramadilla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9784247599999,37.3785967600001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">225</SimpleData>
+		<SimpleData name="Direccion">Calle Flor De Retama</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.91876494699994,37.3974111840001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">123</SimpleData>
+		<SimpleData name="Direccion">Estadio Olimpico</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00637763599997,37.4156229870001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">124</SimpleData>
+		<SimpleData name="Direccion">Calle Enramadilla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97732971299996,37.377635927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">125</SimpleData>
+		<SimpleData name="Direccion">Avenida San Francisco Javier</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97492582199993,37.3774339080001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">126</SimpleData>
+		<SimpleData name="Direccion">Avenida Reina Mercedes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98645929199995,37.358261026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">226</SimpleData>
+		<SimpleData name="Direccion">Avenida Doctor Emilio Lemos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92176801499994,37.402863343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">127</SimpleData>
+		<SimpleData name="Direccion">Calle Virgen de la Victoria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99779423399997,37.377635927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">227</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.91964978699997,37.390758869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">128</SimpleData>
+		<SimpleData name="Direccion">Calle Virgen de Loreto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99903570599997,37.375729215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">228</SimpleData>
+		<SimpleData name="Direccion">Avenida de las Ciencias</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92118770299993,37.3944701350001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">129</SimpleData>
+		<SimpleData name="Direccion">Calle Virgen de Lujan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00246906699994,37.374686964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">229</SimpleData>
+		<SimpleData name="Direccion">Avenida Aeronautica</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.91990490899997,37.387362899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">130</SimpleData>
+		<SimpleData name="Direccion">Glorieta Republica Dominicana</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.00565089899993,37.375724932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">230</SimpleData>
+		<SimpleData name="Direccion">Avenida de las Ciencias</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92813078199993,37.4039380290001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">231</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.94214809399995,37.4016687550001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">232</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.93975588,37.4039758490001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">233</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.93700793399995,37.4042063410001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">234</SimpleData>
+		<SimpleData name="Direccion">Calle Médicos Sin Frontera</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92518700299996,37.3999710360001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">235</SimpleData>
+		<SimpleData name="Direccion">Calle Ciudad de Chiva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92984925899998,37.411700851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">236</SimpleData>
+		<SimpleData name="Direccion">Ciudad de Chiva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92647159399996,37.4102167080001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">237</SimpleData>
+		<SimpleData name="Direccion">Ciudad de Chiva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92324664199998,37.409331916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">238</SimpleData>
+		<SimpleData name="Direccion">Calle Ciudad de Chiva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92000102899993,37.4081459940001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">239</SimpleData>
+		<SimpleData name="Direccion">Calle Ciudad de Liria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.92776516799995,37.4086568990001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">240</SimpleData>
+		<SimpleData name="Direccion">Avenida Alcalde Luis Uruñuela</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.94050956699994,37.4026028760001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">241</SimpleData>
+		<SimpleData name="Direccion">Plaza Nueva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99607665499997,37.388843926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">242</SimpleData>
+		<SimpleData name="Direccion">Plaza Nueva</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.99608114699993,37.3888817540001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">243</SimpleData>
+		<SimpleData name="Direccion">Glorieta del Primero de Mayo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95347495099998,37.380432016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">244</SimpleData>
+		<SimpleData name="Direccion">Avenida Juan XXIII</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95168460899993,37.378024973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">245</SimpleData>
+		<SimpleData name="Direccion">Calle de los Gavilanes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95262604299995,37.3753887010001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">246</SimpleData>
+		<SimpleData name="Direccion">Puerto de los Azores</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95517186899997,37.376151823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">247</SimpleData>
+		<SimpleData name="Direccion">Enramadilla</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.97939763499994,37.3784183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">248</SimpleData>
+		<SimpleData name="Direccion">Glorieta de los Ferroviarios</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98286333599998,37.4220619210001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">249</SimpleData>
+		<SimpleData name="Direccion">Calle Navarra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98481627299998,37.424799281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">250</SimpleData>
+		<SimpleData name="Direccion">Calle de Salvador Allende</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.98542263599995,37.421909961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">251</SimpleData>
+		<SimpleData name="Direccion">Avenida Cruzcampo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96515035499993,37.385783342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">252</SimpleData>
+		<SimpleData name="Direccion">Carretera de Bellavista</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96898526299998,37.3246068650001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">253</SimpleData>
+		<SimpleData name="Direccion">Carretera de Bellavista</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96916492599996,37.3196969630001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">254</SimpleData>
+		<SimpleData name="Direccion">Carretera de Bellavista</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96781386,37.328765708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">255</SimpleData>
+		<SimpleData name="Direccion">Calle Pero Mingo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.91409730099997,37.385973918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">256</SimpleData>
+		<SimpleData name="Direccion">Plaza Miguel Montoro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.91027407099995,37.385986766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">257</SimpleData>
+		<SimpleData name="Direccion">Plaza Torres de Albarracín</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.90969196199995,37.3842101760001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">258</SimpleData>
+		<SimpleData name="Direccion">Calle Estaca de Vares</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.91463269599996,37.3837968930001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">259</SimpleData>
+		<SimpleData name="Direccion">Calle 8 de Marzo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95448286099997,37.3671808980001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#estaciones_sevici">
+		<SimpleData name="id_estacio">260</SimpleData>
+		<SimpleData name="Direccion">Avenida de la Revoltosa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.9484740299999,37.3786410180001</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
