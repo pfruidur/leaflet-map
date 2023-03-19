@@ -1,48 +1,38 @@
-html,body,#map {
+html,
+body,
+#map {
   height: 100%;
-  margin:0px;
+  margin: 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .viewport {
   height: 100%;
 }
+
 .contenido {
   height: 95%;
   color: white;
-  background-color: #800;
-}
-/* .encabezado {
-  height: 5%;
-  color: white;
-  background-color: #080;
-  border: black;
-  text-align: center;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}   */
-
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #333;
-  overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+.barra-superior {
+  background-color: #080; /* color de fondo de la barra superior */
+  color: #fff; /* color de texto de la barra superior */
+  padding: 0px; /* espacio de relleno para los títulos */
+  display: flex; /* para hacer que los títulos estén en línea */
+  justify-content: space-between; /* para hacer que los títulos estén alineados a los extremos */
 }
 
-.topnav a.nombre{
-  float: right;
+.titulo {
+  margin: 0; /* para eliminar el margen predeterminado del encabezado */
+  padding-left: 10px;
 }
 
-/* Add a color to the active/current link */
-.topnav a.ciudad  {
-  background-color: #080;
-  color: white;
+.subtitulo {
+  margin: 0; /* para eliminar el margen predeterminado del encabezado */
+  font-size: 1.2rem; /* tamaño de fuente para el subtítulo */
+  padding-right: 10px;
 }
+
+
+

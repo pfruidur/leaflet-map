@@ -17,7 +17,7 @@ var iconoBici = L.icon({
     popupAnchor: [0, -30]
 });
 
-function createCustomIcon(feature, latlng) {
+function crearIconoParque(feature, latlng) {
     var iconoParque = L.icon({
         iconUrl: './img/marker-parque.png',
         iconSize: [27, 40],
@@ -69,7 +69,7 @@ var parques = L.geoJSON(parquesjson, {
         layer.bindPopup(
             '<b>Nombre: </b>' + feature.properties.nombre + '<br><b>Categoría: </b>' + feature.properties.categoria + '<br><b>Superficie: </b>' + feature.properties.superficie);
     },
-    pointToLayer: createCustomIcon
+    pointToLayer: crearIconoParque
 }).addTo(map);
 
 console.log('cargadas todas menos omnivore')
